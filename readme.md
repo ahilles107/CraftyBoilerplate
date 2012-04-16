@@ -29,6 +29,8 @@ proposed structure tree:
 ---- config.js -> Game configuration
 ---- game.js -> Main file of the game
 ---- sprites.js -> Sprites definitions
+-- web
+---- images
 -- index.html -> Game wrapper
 ``` 
 
