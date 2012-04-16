@@ -4,7 +4,7 @@ Ufo = BaseEntity.extend({
     },
     initialize: function(){
     	var model = this;
-    	var entity = Crafty.e("2D, "+gameContainer.app.conf.get('renderType')+", Multiway, Keyboard, ufo, SpriteAnimation, Mouse, Collision");
+    	var entity = Crafty.e("2D, "+gameContainer.conf.get('renderType')+", Multiway, Keyboard, ufo, SpriteAnimation, Mouse, Collision, MouseHover");
 
     	entity
             .attr({x: ((Crafty.viewport.width/2) - (entity.w/2)), y: 0, z: 300})
