@@ -12,7 +12,7 @@ proposed structure tree:
 
 ```
 -- src
----- components -> Crafty componets files
+---- components -> Crafty components files
 ---- entities -> Files with entities
 ---- interfaces -> We keep here files with interface entities
 ---- levels -> Configuration files for levels
