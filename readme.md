@@ -14,7 +14,8 @@ proposed structure tree:
 -- src
 ---- components -> Crafty components files
 ---- entities -> Files with entities
--------- baseEntity.js -> Base entity
+-------- base
+------------ baseEntity.js -> Base entity
 ---- interfaces -> We keep here files with interface entities
 ---- levels -> Configuration files for levels
 ---- scenes -> Files with scenes declarations
