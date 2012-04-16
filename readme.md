@@ -12,19 +12,19 @@ proposed structure tree:
 
 ```
 -- src
----- components -> Crafty componets files
+---- components -> Crafty components files
 ---- entities -> Files with entities
+-------- baseEntity.js -> Base entity
 ---- interfaces -> We keep here files with interface entities
 ---- levels -> Configuration files for levels
 ---- scenes -> Files with scenes declarations
 ---- windows -> Files with logic for interface windows
----- libs	 -> Other libraries files
+---- libs -> Other libraries files
 -------- backbone
 -------- jquery
 -------- modernizr
 -------- require-jquery
 -------- underscore
----- baseEntity.js -> Base entity
 ---- config.js -> Game configuration
 ---- game.js -> Main file of the game
 ---- sprites.js -> Sprites definitions
