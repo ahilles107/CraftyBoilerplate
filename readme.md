@@ -31,6 +31,7 @@ proposed structure tree:
 ---- sprites.js -> Sprites definitions
 -- web
 ---- images
+---- css
 -- index.html -> Game wrapper
 ``` 
 
