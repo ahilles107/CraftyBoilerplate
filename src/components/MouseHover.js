@@ -9,6 +9,9 @@ Crafty.c('MouseHover', {
         })
         .bind('MouseOut', function(){
             document.body.style.cursor = "default";
+        })
+        .bind('Remove', function(){
+            document.body.style.cursor = "default";
         });
     
         return this;
