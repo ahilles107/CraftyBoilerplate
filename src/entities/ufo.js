@@ -16,6 +16,7 @@ Ufo = BaseEntity.extend({
             .bind('Click', function(){
                 
             })
+            .setName('Ufo');
 
             entity.origin(entity.w/2, entity.h/2);
 

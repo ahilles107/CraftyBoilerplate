@@ -35,4 +35,4 @@ proposed structure tree:
 -- index.html -> Game wrapper
 ``` 
 
-You can find here (https://github.com/ahilles107/CraftyBoilerplate) a sample project that use CraftyBoilerplate.
+You can find here (https://github.com/flywithmonkey/CraftyBoilerplate) a sample project that use CraftyBoilerplate.
